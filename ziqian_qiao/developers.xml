@@ -1,0 +1,16 @@
+<object-stream>
+  <list>
+    <models.Developer>
+      <developerName>dev1</developerName>
+      <developerWebsite>www.dev1.com</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>dev2</developerName>
+      <developerWebsite>www.dev2.com</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>dev3</developerName>
+      <developerWebsite>www.dev3.com</developerWebsite>
+    </models.Developer>
+  </list>
+</object-stream>

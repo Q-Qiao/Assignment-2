@@ -1,0 +1,168 @@
+<object-stream>
+  <list>
+    <app.EducationApp>
+      <developer>
+        <developerName>dev1</developerName>
+        <developerWebsite>www.dev1.com</developerWebsite>
+      </developer>
+      <appName>edu1</appName>
+      <appSize>11.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>30.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>0</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Too slow</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>0</numberOfStars>
+          <raterName>Cary1987</raterName>
+          <ratingComment>Used once, never again</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>4</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Too expensive</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>Mary3</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+      </ratings>
+      <level>4</level>
+    </app.EducationApp>
+    <app.GameApp>
+      <developer>
+        <developerName>dev2</developerName>
+        <developerWebsite>www.dev2.com</developerWebsite>
+      </developer>
+      <appName>game1</appName>
+      <appSize>0.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>0.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>Adam101</raterName>
+          <ratingComment>Really intuitive</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>RickyW</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>Adam101</raterName>
+          <ratingComment>Couldn&apos;t stop using app</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>MarkD</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+      </ratings>
+      <isMultiplayer>true</isMultiplayer>
+    </app.GameApp>
+    <app.EducationApp>
+      <developer>
+        <developerName>dev1</developerName>
+        <developerWebsite>www.dev1.com</developerWebsite>
+      </developer>
+      <appName>edu2</appName>
+      <appSize>5.0</appSize>
+      <appVersion>1.5</appVersion>
+      <appCost>22.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>JohnD</raterName>
+          <ratingComment>Too slow</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>Mary3</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>MarkD</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>Scotty</raterName>
+          <ratingComment>Loved the UX</ratingComment>
+        </models.Rating>
+      </ratings>
+      <level>2</level>
+    </app.EducationApp>
+    <app.GameApp>
+      <developer>
+        <developerName>dev1</developerName>
+        <developerWebsite>www.dev1.com</developerWebsite>
+      </developer>
+      <appName>g1</appName>
+      <appSize>12.0</appSize>
+      <appVersion>2.0</appVersion>
+      <appCost>23.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Really intuitive</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>Mary3</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Too expensive</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>MarkD</raterName>
+          <ratingComment>Couldn&apos;t stop using app</ratingComment>
+        </models.Rating>
+      </ratings>
+      <isMultiplayer>false</isMultiplayer>
+    </app.GameApp>
+    <app.ProductivityApp>
+      <developer>
+        <developerName>dev3</developerName>
+        <developerWebsite>www.dev3.com</developerWebsite>
+      </developer>
+      <appName>prod1</appName>
+      <appSize>32.0</appSize>
+      <appVersion>3.0</appVersion>
+      <appCost>3.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>JohnD</raterName>
+          <ratingComment>Too slow</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Poor App</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>2</numberOfStars>
+          <raterName>Scotty</raterName>
+          <ratingComment>Too slow</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Loved the UX</ratingComment>
+        </models.Rating>
+      </ratings>
+    </app.ProductivityApp>
+  </list>
+</object-stream>
